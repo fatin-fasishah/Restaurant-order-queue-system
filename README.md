@@ -1,2 +1,2 @@
-# restaurant-order-queue-system
+# Restaurant-order-queue-system
 A restaurant order management system using Queue data structure in C.
